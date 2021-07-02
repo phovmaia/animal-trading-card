@@ -1,0 +1,66 @@
+/* add your CSS here */
+h3 {
+    font-weight: bold;
+    font-size: 30pt;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.looklike{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.interesting{
+    font-style: italic;
+    text-align: center;
+}
+
+.nomark{
+    list-style-type: none;
+    margin-left: -15px;
+}
+
+.bolditens{
+    font-weight: bold;
+}
+
+.firstbox{
+    width: 600px;
+    height: 650px;
+    border: 1px solid lightgray;
+    margin: 30px;
+
+}
+
+.secondbox{
+    width: 550px;
+    height: 250px;
+    border: 1px solid lightgray;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+
+.img{
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.fdescript{
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.shadows{
+    box-shadow: 5px 5px lightgray;
+}
