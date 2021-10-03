@@ -1,7 +1,6 @@
-This is a project of a HTML page of a Animal Trading Cards, it's my first project with it.
-
-
 # animal-trading-cards
-Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
+### This is my first project with HTML and CSS it's part of the Udacity Learn To Code Nanodegree
+
+It's a simple card of my favorite animal creating a simple HTML file.
 
 
